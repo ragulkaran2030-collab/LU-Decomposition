@@ -45,7 +45,10 @@ print(x)
 
 
 ## Output:
-![lu decomposition]()
+<img width="952" height="309" alt="Screenshot 2026-03-12 215715" src="https://github.com/user-attachments/assets/b165be43-f73c-4b23-adca-f5704b29e7f3" />
+<img width="949" height="266" alt="Screenshot 2026-03-12 215731" src="https://github.com/user-attachments/assets/c7a81c8b-ecc6-479d-9bbe-8f94e11bfbe1" />
+
+
 
 
 ## Result:
