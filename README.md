@@ -41,7 +41,7 @@ A=np.array(eval(input()),dtype=float)
 B=np.array(eval(input()),dtype=float)
 lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
-print(x)
+print(x) 
 
 
 ## Output:
